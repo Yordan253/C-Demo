@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648461946 source:c:\c\uniquearrayelements28.03.2022\main.c
+	<stdio.h>
+	<stdlib.h>
+
