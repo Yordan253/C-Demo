@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649245389 source:c:\c\gabimultidimensionalarrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
