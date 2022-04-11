@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648899450 source:c:\c\860. lemonade change\main.c
+	<stdio.h>
+	<stdlib.h>
+
