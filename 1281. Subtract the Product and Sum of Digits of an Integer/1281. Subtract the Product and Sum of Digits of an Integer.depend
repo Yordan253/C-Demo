@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649708394 source:c:\c\1281. subtract the product and sum of digits of an integer\main.c
+	<stdio.h>
+	<stdlib.h>
+
