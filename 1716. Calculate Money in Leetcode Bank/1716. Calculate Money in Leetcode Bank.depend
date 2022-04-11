@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649700356 source:c:\c\1716. calculate money in leetcode bank\main.c
+	<stdio.h>
+	<stdlib.h>
+
