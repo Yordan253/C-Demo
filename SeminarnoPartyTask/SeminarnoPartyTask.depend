@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650296199 source:c:\c\seminarnopartytask\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
