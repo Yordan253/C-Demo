@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650365524 source:c:\c\seminarnosweets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
